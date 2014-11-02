@@ -11,7 +11,7 @@ the grading requirements.
 
 Inputs:
 
-The analysis is driven through a parameter list the defines the potential solutions (range).  The peer.review.simulation uses
+The analysis is driven through a parameter list that defines the potential solutions (range).  The peer.review.simulation uses
 the parameter list, number of samples and simulations.
 
 Output:
